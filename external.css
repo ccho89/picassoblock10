@@ -1,0 +1,36 @@
+.flex-container {
+    dipslay: flex;
+    justify-content: center;
+}
+.pic1 {
+    background-color:#5e87b8;
+    padding: 5rem;
+    width: 25rem;
+    border-radius: 10px 100px / 120px;
+    position: relative;
+}
+.pic2 {
+    background-color: #cbf078;
+    padding: 4rem;
+    width: 5rem;
+    position: absolute;
+    top: 2rem;
+}
+.pic3 {
+    background-color: #ff5d9e;
+    padding: 6rem;
+    width: 3rem;
+    border-radius: 50%
+}
+.pic4 {
+    background-color: #f16821;
+    padding: 6rem;
+    width: 10rem;
+    border-radius: 10% / 50%;
+}
+.pic5 {
+    background-color: #c3bef0;
+    padding: 6rem;
+    width: 5rem;
+    border-radius: 40%;
+}
